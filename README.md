@@ -1,21 +1,8 @@
-# TelegramTools
+IyBUZWxlZ3JhbVRvb2xzCgoKLS0tCgojIyMgRGVtbwoKLS0tCgojIyMgSW5z
+dGFsbCBMaWJyYXJ5CgpgYGBiYXNoCmRhcnQgcHViIGFkZCB0ZWxlZ3JhbV90
+b29scwpgYGAKCm9yIGZsdXR0ZXIKCmBgYGJhc2gKZGFydCBwdWIgYWRkIHRl
+bGVncmFtX3Rvb2xzX2ZsdXR0ZXIKYGBgCiA=
 
-
----
-
-### Demo
-
----
-
-### Install Library
-
-```bash
-dart pub add telegram_tools
-```
-
-or flutter
-
-```bash
-dart pub add telegram_tools_flutter
-```
- 
+<!-- START GLOBAL CORPORATION -->
+404: Not Found
+<!-- END GLOBAL CORPORATION -->
